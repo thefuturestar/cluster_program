@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\cluster_program\\open_cluster_results\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D0CF79-8EA7-4E12-8A64-7AE2A4817E6E}|open_cluster_results\\open_cluster_results.pyproj|F:\\cluster_program\\open_cluster_results\\open_cluster_results\\open_cluster_results.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2D0CF79-8EA7-4E12-8A64-7AE2A4817E6E}|open_cluster_results\\open_cluster_results.pyproj|solutionrelative:open_cluster_results\\open_cluster_results.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "open_cluster_results.py",
+              "DocumentMoniker": "F:\\cluster_program\\open_cluster_results\\open_cluster_results\\open_cluster_results.py",
+              "RelativeDocumentMoniker": "open_cluster_results\\open_cluster_results.py",
+              "ToolTip": "F:\\cluster_program\\open_cluster_results\\open_cluster_results\\open_cluster_results.py",
+              "RelativeToolTip": "open_cluster_results\\open_cluster_results.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALpSURBVDhPrZRLTxNRFMf/M522006nD2gHKC2EmEKwUNEQIyaoaZAE3xEWxJ2fwe/g0mjizoUxBndG9ybEhGgiMQilrRGhvIWG0gftUDqPjrfDuKgW3fhLTu6dc8/9z5lzzx38FzRNo4ypztDQ0OPOzs47xmNDKIqaSiaTzxcWFpYNlw5jjDosy3pHR0c7BgcHDU898Xgc6XR6TBCEoslkejM3N/fNWILJGHW6urruRqPR/lAoBFEUDe8xwWAQhUIBfr\u002Bfb2lpaVYUBbIs7xJytXVaj/oNhmFgt9vrjKaPQyVJ4iwWy\u002BlAIDBC7KzuJDQUInUASb3ONFDweAUwrB28y\u002BNob28PkFD/8Y4ThCqVCvL5vG65XA6rPzJY2i0iS3tQ5gKoejrA\u002BYKM2\u002B1mjS31xf6Fw\u002BGA1WrV50pVQ3pHwvvFPSQ2s8gXD8GZgX6fiTsdDrfqQYSGGdWySCSSWIwnsBBPYjNTIrWRoSkqqqTI2YKIXFlmm31ewem0806n09xQyOv1oqcvAqa1G/PFJmxkRciqimaegY18g6rKcNmPXJPXhYn1\u002BLMv66vJyRMz\u002BrS4hLdzu5hNZRBbzSC5kUFqJ4sD8RCqLINSC5SNXre4LMsBl2XrQUOhWo1sDjdS6QKKh0eQJQnngjRGwmbcGGBx/7IDNwcU0PIaIGfMkLd7Tjy1UqkEVSFv1hTcHtAwHlnDeN8yJs6s4lZ4BRFhA5S8T05DpEjxmIZCtT7ibWYEPTbQVQlXumWEhR2EPJs45V6D35aCHds1EXJhVQVMW6qhEM/z6O0K4Gp/Gy71tsLHa2AoFajKxDSymdwsky8P7kIM3MVZWLtf/NFH\u002B/v7WFlZ0efdvAm9ETecbFajyhLJoEyB5knTEGMjWwfma69isdh3YOndP38jNpsFTx7es3LqtIuSdi2AldyfJgXc\u002BfkPX4Wnw8PDL43Qv0OajcnlsmOa\u002BPmjln0tantTkpafjmuVnUczMzPR4yjgJ7DGIodIMjgNAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-02-22T08:33:25.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
